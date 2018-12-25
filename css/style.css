@@ -1033,6 +1033,9 @@
 	background: #e8edf5;
 	padding-left: .5rem;
 	font-size: .6rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
 }
 
 .mall li h1 {
