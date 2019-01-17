@@ -1,0 +1,27 @@
+{
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Cobalt2",
+    "sync.gist": "605ef52327b986b6dc49e36b578c3492",
+    "files.associations": {
+        "*.js": "javascript",
+        "*.html": "html",
+        "*.wpy": "vue"
+    },
+    "editor.minimap.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "prettier.singleQuote": true,
+    "editor.tabSize": 4,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "workbench.iconTheme": "vscode-icons",
+    "[javascriptreact]": {},
+    "editor.fontFamily": "Monaco, Menlo, Monaco, 'Courier New', monospace",
+    "editor.detectIndentation": false,
+    "prettier.tabWidth": 4,
+    "vetur.format.options.tabSize": 4,
+    "vetur.format.options.useTabs": true,
+    "vetur.format.scriptInitialIndent": true,
+    "vetur.format.styleInitialIndent": true
+}
